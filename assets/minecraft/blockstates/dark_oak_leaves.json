@@ -1,7 +1,7 @@
 {
     "variants": {
         "distance=1": [
-			{ "model": "block/dark_oak_leaves" }
+			{ "model": "block/near/dark_oak_leaves_near" }
 				],
         "distance=2": [
 			{ "model": "block/dark_oak_leaves" }

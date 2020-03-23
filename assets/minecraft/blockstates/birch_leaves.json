@@ -1,7 +1,7 @@
 {
     "variants": {
         "distance=1": [
-				{ "model": "block/birch_leaves" }
+				{ "model": "block/near/birch_leaves_near" }
 				],
         "distance=2": [
 				{ "model": "block/birch_leaves" }

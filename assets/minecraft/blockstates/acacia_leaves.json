@@ -1,7 +1,7 @@
 {
     "variants": {
         "distance=1": [
-			{ "model": "block/acacia_leaves" }
+			{ "model": "block/near/acacia_leaves_near" }
 				],
         "distance=2": [
 			{ "model": "block/acacia_leaves" }
